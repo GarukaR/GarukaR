@@ -28,10 +28,10 @@ I'm a Software Developer passionate about AI and Web Development. I enjoy buildi
 
 ## Featured Projects
 
-### Medical History Taker (https://github.com/yourusername/project-name)
+### Medical History Taker
 Project built with React, Gemini, AWS Lambda, and MongoDB to streamline patient medical history data from patients to doctors via natural conversation with an AI Voice Assistant.
 
-### HKU Cricket Website(https://github.com/yourusername/another-project)
+### HKU Cricket Website
 Creating the website for the Hong Kong University Cricket Club. In Progress...
 
 ## Connect With Me
