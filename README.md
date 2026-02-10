@@ -29,21 +29,20 @@ I'm a Software Developer passionate about AI and Web Development. I enjoy buildi
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GarukaR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 ## Featured Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
-Brief description of what this project does and the technologies used.
+### Medical History Taker (https://github.com/yourusername/project-name)
+Project built with React, Gemini, AWS Lambda, and MongoDB to streamline patient medical history data from patients to doctors via natural conversation with an AI Voice Assistant.
 
-### [Another Project](https://github.com/yourusername/another-project)
-Brief description of what this project does and the technologies used.
+### HKU Cricket Website(https://github.com/yourusername/another-project)
+Creating the website for the Hong Kong University Cricket Club. In Progress...
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garuka-ranasinghe/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
 ---
 
 💡 *"Action Solves All Things!"*
