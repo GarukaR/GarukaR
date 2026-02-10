@@ -28,7 +28,7 @@ I'm a Software Developer passionate about AI and Web Development. I enjoy buildi
 
 ## GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GarukaR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarukaR&show_icons=true&theme=default&hide_border=true)
 
 ## Featured Projects
 
