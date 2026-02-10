@@ -26,10 +26,6 @@ I'm a Software Developer passionate about AI and Web Development. I enjoy buildi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarukaR&show_icons=true&theme=default&hide_border=true)
-
 ## Featured Projects
 
 ### Medical History Taker (https://github.com/yourusername/project-name)
