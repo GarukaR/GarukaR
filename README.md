@@ -20,6 +20,7 @@ I'm a Software Developer passionate about AI and Web Development. I enjoy buildi
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-F54927?style=flat-square&logo=crewai&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
